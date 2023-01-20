@@ -1,0 +1,15 @@
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\bin\Debug\net7.0\projeto_estoque_classes.exe
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\bin\Debug\net7.0\projeto_estoque_classes.deps.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\bin\Debug\net7.0\projeto_estoque_classes.runtimeconfig.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\bin\Debug\net7.0\projeto_estoque_classes.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\bin\Debug\net7.0\projeto_estoque_classes.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\obj\Debug\net7.0\projeto_estoque_classes.csproj.AssemblyReference.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\obj\Debug\net7.0\projeto_estoque_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\obj\Debug\net7.0\projeto_estoque_classes.AssemblyInfoInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\obj\Debug\net7.0\projeto_estoque_classes.AssemblyInfo.cs
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\obj\Debug\net7.0\projeto_estoque_classes.csproj.CoreCompileInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\obj\Debug\net7.0\projeto_estoque_classes.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\obj\Debug\net7.0\refint\projeto_estoque_classes.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\obj\Debug\net7.0\projeto_estoque_classes.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\obj\Debug\net7.0\projeto_estoque_classes.genruntimeconfig.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\projeto_estoque_classes\obj\Debug\net7.0\ref\projeto_estoque_classes.dll
